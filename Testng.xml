@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="sample test suite" >
+  <test name="Login Test">
+    <classes>
+      <class name="com.selenium.code.sessions.GrpActivity_ChromeDriver"/>
+    </classes>
+  </test>
+</suite>
